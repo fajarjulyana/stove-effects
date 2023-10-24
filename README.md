@@ -30,7 +30,7 @@ Proyek ini dilisensikan di bawah lisensi MIT. Lihat [LISENSI](LISENSI.md) untuk 
 
 ## Dukungan
 
-Jika Anda memiliki pertanyaan atau masalah terkait proyek ini, silakan buka _issue_ di repositori ini atau hubungi kami melalui [email@example.com](mailto:email@example.com).
+Jika Anda memiliki pertanyaan atau masalah terkait proyek ini, silakan buka _issue_ di repositori ini atau hubungi kami melalui [fajarjlyana1@gmail.com](fajarjulyana1@example.com).
 
 Terima kasih telah menggunakan plugin VST "Stove" Delphi 7!
 
